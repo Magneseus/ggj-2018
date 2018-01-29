@@ -8,13 +8,13 @@ World Radio 104.5 has requested a mixtape from two bands, but can only play one.
 ## Collaborators
 ### Art/Design
 + Aaron Lynch - [Website](http://www.aaronlynch5.com/), [Github](https://github.com/aaronlynch5/)
-+ Cassie Cassel - 
-+ Josh van der Lin - [Github](https://github.com/joshvdl/)
++ Cassie Cassel - [Website](http://casselldesign.ca/), [Github](https://github.com/casselloma/)
++ Josh van der Lin - [Website](https://joshvdl.myportfolio.com/), [Github](https://github.com/joshvdl/)
 
 ### Code/Design
-+ Ben Brinkman - [Github](https://github.com/benbrinkman/)
++ Ben Brinkman - [Website](http://ben.brinkmanfamily.ca/), [Github](https://github.com/benbrinkman/)
 + Kyle Causton - [Github](https://github.com/kylecauston/)
-+ Matt Mayer - [Github](https://github.com/Magneseus/), [Website](http://magneseus.com/)
++ Matt Mayer - [Website](http://magneseus.com/), [Github](https://github.com/Magneseus/)
 
 ## Credits
 All 80s music from the 8bit Universe YouTube channel https://www.youtube.com/channel/UCn4HDI02U4f3VEsghRX7dRw
